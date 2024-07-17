@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   boldreports-v2:
   - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2024-07-17T14:16:11.1328843+05:30"
+    description: A Helm chart for Kubernetes
+    digest: caec2dd908fa00946302eaa90e36041e63e804d961b85f1c9c778e222987bb36
+    name: boldreports-v2
+    type: application
+    urls:
+    - https://muthukumar-saravanan.github.io/v2-helm-deployment/boldreports-v2-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-17T10:44:50.7497795+05:30"
+    created: "2024-07-17T14:16:11.1254638+05:30"
     description: A Helm chart for Kubernetes
     digest: 0fd8a6c93dd71d5ecf4040d51df89f7def3a86fefa379f4ffb5f1cce91dcaa7a
     name: boldreports-v2
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://muthukumar-saravanan.github.io/v2-helm-deployment/boldreports-v2-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-17T10:44:50.7396268+05:30"
+generated: "2024-07-17T14:16:11.1055797+05:30"
